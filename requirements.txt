@@ -67,7 +67,7 @@ PAM==0.4.2
 passlib==1.7.1
 pexpect==4.2.1
 pid==2.2.0
-Pillow==5.1.0
+Pillow==6.2.0
 pipenv==2018.11.26
 pluginmgr==0.5.1
 post==1.0.2
