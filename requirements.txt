@@ -115,7 +115,7 @@ twentyc.tmpl==0.2.0
 typed-ast==1.1.0
 ubuntu-drivers-common==0.0.0
 ufw==0.35
-urllib3==1.22
+urllib3==1.26.5
 usb-creator==0.3.3
 uWSGI==2.0.17.1
 vaping==1.0.0
